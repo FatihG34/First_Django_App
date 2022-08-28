@@ -39,6 +39,8 @@ INSTALLED_APPS = [
     "django.contrib.messages",
     "django.contrib.staticfiles",
     'phonenumber_field',
+    "bootstrap5",
+    # my_apps
     "student_register",
 ]
 
